@@ -593,11 +593,11 @@ input[type='checkbox'] {
 
 .h1-white {
 position: absolute;
-transform: translate( -50% ,-50%);
+
 left: 50%;
 
 color: white;
-font-size: 300%;
+font-size: 250%;
 
 }
 /********************/
