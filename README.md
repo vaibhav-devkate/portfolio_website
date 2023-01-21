@@ -1,6 +1,6 @@
 # Welcome to my portfolio website! 👋
 
-## 🔗[Visit Portfolio Website!](https://vaibhav-devkate.github.io/portfolio/)
+## 🔗[Visit Portfolio Website!](https://vaibhav-devkate.github.io/portfolio_website/)
 
  This site is a collection of my work, projects, and skills. It is designed to showcase my abilities and give you an understanding of my experience and expertise.
 
